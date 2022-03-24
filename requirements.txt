@@ -1,0 +1,9 @@
+datetime 
+pandas 
+arrow
+re
+tkinter
+PIL 
+gtts 
+SpeechRecognition==3.8.1
+
